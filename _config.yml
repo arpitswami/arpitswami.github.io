@@ -1,6 +1,6 @@
 # main text of home
-name: Edward Zhu
-bio: software. wacky socks. workout to eat more.
+name: Arpit Swami
+bio: software. yoga and meditate. workout to eat more.
 
 # twitter summary info
 description: software
@@ -38,10 +38,10 @@ permalink: /:title/
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: edwardrzhu
+linkedin: arpitswami
 # youtube: myyoutube
 # spotify: myspotify
-github: zhued
+github: arpitswami
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,11 +50,11 @@ github: zhued
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: edward.r.zhu@gmail.com
+email: arpitswami96@gmail.com
 
 authors:
-    edwardzhu:
-        name: Edward Zhu
+    arpitswami:
+        name: Arpit Swami
         bio: its a me
         external-image: false
         picture: assets/images/me.jpg
