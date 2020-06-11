@@ -12,9 +12,9 @@ picture: assets/images/arpit.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url: https://drive.google.com/file/d/1nZ4RL2F9QnA09fi8IKnDxUYXKsFj4EzC/view?usp=sharing
+resume: true
+resume-external: true
+resume-url: https://drive.google.com/file/d/1Y3XO4lo8cyTqeF617WwlSHV3PSxR5wws/view?usp=sharing
 
 url: http://arpitswami.github.io
 
