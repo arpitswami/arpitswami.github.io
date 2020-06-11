@@ -20,8 +20,9 @@ I love singing, listening and playing music, working out, doing yoga and meditat
 <h2>Tech</h2>
 
 <ul class="skill-list">
-	<li>Javascript, Python, Java</li>
+	<li>Javascript, Python, Java, Scala</li>
 	<li>Neural Networks, Clustering Techniques and NLP</li>
 	<li>SQL - MySQL</li>
 	<li>NoSQL - Redis</li>
+	<li>Big Data - Hadoop, Spark, Hive</li>
 </ul>
