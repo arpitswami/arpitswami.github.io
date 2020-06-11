@@ -8,7 +8,7 @@ description: software
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/me.jpg
+picture: assets/images/arpit.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -57,7 +57,7 @@ authors:
         name: Arpit Swami
         bio: its a me
         external-image: false
-        picture: assets/images/me.jpg
+        picture: assets/images/arpit.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
