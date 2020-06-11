@@ -5,26 +5,23 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Currently working as a <strong>full-stack software engineer</strong> at <a href="http://www.helix.com" target="blank">Helix</a>. Previously at <a href="http://www.apptio.com" target="blank">Apptio</a>, <a href="http://www.hpe.com" target="blank">Hewlett-Packard Enterprise</a>, and <a href="http://www.petrode.com" target="blank">PetroDE</a>.
+Currently working as a <strong>Platform Engineer</strong> at <a href="https://www.media.net/" target="blank">Media.net</a>. 
 </p>
 
 <p>
-Graduated in <strong>May 2016</strong> from the <strong>University of Colorado, Boulder</strong> majoring in <strong>Computer Science</strong>.
+Graduated in <strong>July 2018</strong> from the <strong>IIT BHU Varanasi</strong> majoring in <strong>Electrical Engineering</strong>.
 </p>
 
 
 <p>
-I enjoy wacky looking socks, dance, PC gaming, and staying updated with the latest technologies. Oh and food, <strong>all the food</strong>!
+I love singing, listening and playing music, working out, doing yoga and meditation. Oh and food, <strong>love it most</strong>!
 </p>
 
 <h2>Tech</h2>
 
 <ul class="skill-list">
 	<li>Javascript, Python, Java</li>
-	<li>React, Knockout, Node</li>
-	<li>Git, Mercurial</li>
-	<li>AWS, Docker</li>
-	<li>SQL - MySQL, PostgreSQL</li>
-	<li>NoSQL - Mongo</li>
-	<li>Agile, Scrum</li>
+	<li>Neural Networks, Clustering Techniques and NLP</li>
+	<li>SQL - MySQL</li>
+	<li>NoSQL - Redis</li>
 </ul>
